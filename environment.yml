@@ -1,0 +1,27 @@
+name: phsheth
+
+channels:
+- conda-forge
+dependencies:
+- jupyterlab
+- nodejs
+- notebook
+- nbconvert
+- ipykernel
+- ipywidgets
+- widgetsnbextension
+- altair
+- bqplot
+- dask
+- matplotlib
+- pandas
+- python=3.7
+- scikit-image
+- scikit-learn
+- seaborn
+- tensorflow
+- sympy
+- pyyaml
+- traittypes
+- invoke
+- jupyterlab_launcher
