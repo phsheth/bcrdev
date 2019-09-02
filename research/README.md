@@ -1,6 +1,6 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/phsheth/bcrdev/research/?urlpath=lab)
-# Research for creating Bar Chart Races
+# Research for creating Bar Chart Race
 
 * Course 1: Time Series Data in Python and pandas
 * Course 2: Time Series Analysis in Python
